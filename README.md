@@ -16,7 +16,7 @@ Remember that the artists and studios put a lot of work into making music - purc
 ### Features
 
 - Download music in excellent quality for free
-- Supports single tracks, albums & playlists
+- Supports single tracks, albums and playlists
 - Music quality selection (MP3 - 128 kbps, MP3 - 320 kbps, FLAC - 1411 kbps)
 - Auto tagging MP3 & FLAC files (with album cover)
 - Saves music to "DOWNLOADS/[artist]/[album]/[track_number] [title].mp3/flac"

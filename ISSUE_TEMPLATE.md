@@ -7,7 +7,5 @@ Before creating an issue:
 
 What to describe in your issue:
 - Your operating system and architecture used (Windows x64, Linux x86,...)
-- What you have done exactly (so I can test it myself too)
+- What you have done exactly
 - Maybe if you know what the problem could be :)
-
-PLEASE PAY ATTENTION TO THIS! I WILL BE ABLE TO FIX THE BUG FASTER :)
