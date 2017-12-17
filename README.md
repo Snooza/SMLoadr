@@ -44,17 +44,13 @@ Remember that the artists and studios put a lot of work into making music - purc
 
 - You can get working builds here: [http://telegra.ph/SMLoadr-Downloads-12-14](http://telegra.ph/SMLoadr-Downloads-12-14)
 
-- Discord news channel: https://discord.gg/aFEEycz
-
-- Discord help channel: https://discord.gg/cjFUsGM
+- Discord channel: https://discord.gg/aFEEycz
 
 
 
 ### Donate
 
-LOL not to me :D
-
-To the author! Look in the app :)
+- To the author, look in the app :)
 
 
 
