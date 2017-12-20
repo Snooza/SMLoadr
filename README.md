@@ -1,3 +1,6 @@
+![Logo](https://github.com/J05HI/SMLoadr/raw/master/Logo.png)
+
+
 # SMLoadr
 > A streaming music downloader.
 
