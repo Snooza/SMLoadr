@@ -47,7 +47,12 @@ Remember that the artists and studios put a lot of work into making music - purc
 
 - You can get working builds here: [http://telegra.ph/SMLoadr-Downloads-12-14](http://telegra.ph/SMLoadr-Downloads-12-14)
 
-- Discord channel: https://discord.gg/aFEEycz
+- Telegram news channel: [https://t.me/SMLoadrNews](https://t.me/SMLoadrNews)
+- Telegram community group: [https://t.me/SMLoadrCommunity](https://t.me/SMLoadrCommunity)
+- Telegram off-topic group: [https://t.me/SMLoadrOffTopic](https://t.me/SMLoadrOffTopic)
+
+PLEASE JOIN TELEGRAM!
+THE DISCORD CHANNELS WILL BE DELETED IN A FEW DAYS!
 
 
 
